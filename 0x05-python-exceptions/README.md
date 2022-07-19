@@ -9,4 +9,3 @@ For mastering:
 6.	What’s the purpose of catching exceptions
 7.	How to raise a built-in exception
 8.	When do we need to implement a clean-up action after an exception
-
