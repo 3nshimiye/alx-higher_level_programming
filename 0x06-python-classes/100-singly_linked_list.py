@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+# Author: Emmanuel
+
+"""Define classes for a singly-linked list."""
+
 
 class Node:
     """Represent a node in a singly-linked list."""

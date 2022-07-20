@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author: 
+# Author: Emmanuel
 
 """Define a class Square."""
 

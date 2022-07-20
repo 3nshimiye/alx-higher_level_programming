@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# Author: Emmanuel
+
+"""Define a MagicClass matching exactly a bytecode provided by Holberton."""
 
 import math
 
