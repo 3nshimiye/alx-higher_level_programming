@@ -24,7 +24,7 @@ Projects:
 
 * **Emmanuel Nshimiyimana**
 
-## Acknowledgements :pray:
+## Acknowledgements :clap: :clap: :clap: 
 
 All work contained in this project was completed as part of the curriculum for
 ALx_Africa SE.
@@ -33,7 +33,7 @@ ALx_Africa is an online full-stack software engineering program that prepares
 students for careers in the tech industry using project-based peer learning.
 
 More info on ALx_Africa, please visit
-[this link](https://www.alxafrica.com//).
+[Alx_Africa website](https://www.alxafrica.com//).
 
 <p align="center">
   <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
