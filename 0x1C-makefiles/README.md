@@ -2,11 +2,11 @@
 
 Plan: Makefiles.
 
-## Tests :heavy_check_mark:
+## Tests 
 
 * [tests](./tests): Folder of test files.
 
-## Helper Files :raised_hands:
+## Helper Files 
 
 * [school.c](./school.c): C function that displays a seahorse in text.
 Used for Makefile practice purposes throughout project.
