@@ -14,11 +14,11 @@ Used for Makefile practice purposes throughout project.
 * [main.c](./main.c): Main C function that runs the function defined in
 [school.c](./school.c).
 
-## Header File :file_folder:
+## Header File :
 
 * [m.h](./m.h): Header file defining the function prototype used in `school.c`.
 
-## Tasks :page_with_curl:
+## Tasks :
 
 * **0. make -f 0-Makefile**
   * [0-Makefile](./0-Makefile): Makefile that creates an executable `school` based on
